@@ -1,0 +1,24 @@
+.sexo {
+  margin-top: 5px;
+}
+
+.sexo-label {
+  display: block;
+  font-weight: bold;
+}
+
+.edad-label {
+  font-weight: bold;
+}
+
+.apellido-label {
+  font-weight: bold;
+}
+
+.nombre-label {
+  font-weight: bold;
+}
+
+.pais-label {
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 16px;
+  padding: 5px 10px;
+  font-weight: bold;
+  color: #000;
+}
